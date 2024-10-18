@@ -1,0 +1,583 @@
+
+@media(max-width:1249px){
+    .linkk{
+        display: none;
+    }
+    .fa-circle{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+       color:gainsboro;
+    }
+ 
+    
+   
+}
+
+@media(max-width:778px){
+   
+   
+    
+    .links{
+        width: 20%;
+    }
+    .bttn{
+        width: 28%;
+       
+    }
+    .welcome h3{
+        font-size: 30px;
+    }
+    
+   
+}
+@media(max-width:577px){
+    .logo h3{
+        font-size: 20px;
+    }
+    .links{
+        width:10%;
+    }
+   .welcome{
+    margin-left: 0px;
+   }
+   .inputform{
+    width: 50%;
+   }
+   .subs{
+    width: 30%;
+   }
+    .forms{
+        margin-left: 0px;
+    }
+    
+       .featurebox h3{
+        font-size: 35px;
+    }
+    .lorem h3{
+        font-size: 18px;
+    }
+    .dolor h3{
+        font-size: 18px;
+    }
+    .sed h3{
+        font-size: 18px;
+    }
+    .magni h3{
+        font-size: 18px;
+    }
+            .nemo h3{
+        font-size: 18px;
+    }
+    .tempor h3{
+        font-size: 18px;
+    }
+    .services h3{
+        font-size: 30px;
+    }
+    .fa-minus{
+        
+        font-size: 20px;
+    }
+    .feature h3{
+        font-size: 40px;
+    }
+
+   
+}
+
+
+
+
+                     /* PART2 */
+
+@media(max-width:980px){
+    .tags{
+        padding-bottom: 40px;
+        height:150px;
+    }
+}                     
+
+@media(max-width:786px){
+            .tags{
+height: 200px;
+
+            }
+} 
+@media(max-width:578px){
+    .tags{
+        height: 300px;
+        font-size:30px;
+       
+                    }
+}  
+@media(max-width:320px){
+    .tags{
+        height: 250px;
+        font-size:30px;
+        
+                    }
+}  
+
+
+     /* fourboxes */
+  
+
+@media(max-width:989px){
+
+.abt{
+    width: 20%;
+}
+
+
+.readmore{
+    width: 40%;
+}
+.rerum{
+    margin-left: 15px;
+}
+}
+@media(max-width:764px){
+    .rerum{
+        margin-left:0px;
+    }
+}
+
+
+@media(max-width:641px){
+    .abt{
+        width:30%;
+    }
+    .readmore{
+        width:60%;
+        font-size: 25px;
+    }
+   
+    .ducimusrerum{
+        
+        padding-bottom: 20px;
+    }
+    .ducimusrerum h2{
+        font-size: 30px;
+    }
+    .rerum{
+       margin:0px;
+    }
+    
+}  
+@media(max-width:375px) {
+    .ducimusrerum h2{
+        font-size: 25px;
+    }
+    .readmore{
+        width:50%;
+       font-size: 20px;
+    }
+}  
+
+
+                  /* tree */
+
+@media(max-width:968px){
+    .client h3{
+        font-size:49px;
+        
+        
+    }
+    .project h3{
+        font-size: 49px;
+        margin-top: 20px;
+    }
+    
+    .hours h3{
+        font-size: 49px;
+        margin-top: 20px;
+    }
+    
+    .workers h3{
+        font-size: 49px;
+        margin-top: 20px;
+    }
+   
+}    
+@media(max-width:641px){
+    .client{
+        margin-top: 20px;
+    }
+   
+    .project h3{
+        font-size: 49px;
+        margin-top: 20px;
+    }
+    
+    .hours h3{
+        font-size: 49px;
+        margin-top:20px;
+    }
+    
+    .workers h3{
+        font-size: 49px;
+        margin-top: 20px;
+    }
+}  
+
+/* services */
+
+@media(max-width:768px){
+    .servicespara{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        font-size: 15px;
+    }
+}
+          /* img1 */
+@media(max-width:987px){
+    
+    .gtstart{
+        width: 30%;
+    }
+    .corporis{
+        margin-bottom: 25px;
+    }
+.corporis h3{
+        font-size: 25px;
+    }
+    .imgbox{
+        margin-top: 20px;
+    }
+    .sunt h3{
+        padding-top: 30px;
+    }
+    .portfolio h3{
+        font-size: 25px;
+    }
+}  
+@media(max-width:375px){
+   .gtstart{
+    width: 50%;
+   }
+   .sunt h3{
+    font-size: 20px;
+   }
+   .gst{
+    width: 60%;
+   }
+}
+
+/* ///////////// */
+@media(max-width:1340px){
+    .busines1{
+        font-size: 20px;
+    }
+    .Developers{
+        font-size: 20px;
+    }
+    .quam2{
+        font-size:20px ;
+      }
+      .Developers{
+        font-size: 18px;
+      }
+}
+@media(max-width:986px){
+          .bnow{
+            width: 35%;
+          }
+          .quam{
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            text-align: start;
+          }
+          .busines{
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            text-align: start;
+          }
+          .Developer{
+            display: flex;
+            flex-direction: column;
+            align-items: start;
+            text-align: start;
+          }
+         
+          
+}
+@media(max-width:578px){
+    .quam{
+        font-size: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .quam2{
+        font-size: 15px;
+    }
+    .bnow{
+        width: 60%;
+        margin: 20px 20px;
+        align-items: center;
+    }
+    .busines{
+     
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .Developers{
+        font-size:20px;
+        display: flex;
+        flex-direction: column;
+        text-align: start;
+        
+        
+        
+    }
+    .Developer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .asked{
+        font-size: 20px;
+    }
+ 
+    
+}
+
+
+@media(max-width:320px){
+    .collapse{
+        font-size: 20px;
+    }
+
+}
+
+ /* call to action */
+
+ @media(max-width:986px){
+          .textcenter h3{
+            font-size: 30px;
+          }
+          .actionpara{
+            font-size: 15px;
+          }
+          .action{
+            width: 40%;
+          }
+         
+       
+ }
+@media(max-width:578px){
+    .action{
+        width:65%;
+    }
+    .tst{
+        font-size: 14px;
+        font-weight: 100;
+    }
+    .gdpara{
+       font-size: 16px;
+       font-weight: 100;
+    }
+    .sarapara{
+            font-size: 16px;
+            font-weight: 100;
+    }
+    .jenapara{
+            font-size: 16px;
+            font-weight: 100;
+    }
+    .matpara{
+        font-size: 16px;
+            font-weight: 100;
+    }
+    .johnpara{
+        font-size: 16px;
+        font-weight: 100;
+    }
+    .recents h3{
+            font-size: 20px;
+    }
+    .recentpara{
+        font-size: 16px;
+    }
+   
+   
+}
+
+
+ @media(max-width:320px){
+    .textcenter h3{
+        font-size: 25px;
+        font-weight: 300;
+      }
+      .actionpara{
+        font-size: 12px;
+        font-weight: 300;
+      }
+      .action{
+        width: 80%;
+        
+      }
+      .gdpara{
+        font-size: 12px;
+        font-weight: 100;
+ 
+     }
+     .sarapara{
+        font-size: 12px;
+        font-weight: 100;
+     }
+     .matpara{
+        font-size: 12px;
+        font-weight: 100;
+     }
+     .johnpara{
+        font-size: 12px;
+        font-weight: 100;
+     }
+     .hepara{
+        font-size: 14px;
+     }
+     .portfolio h3{
+        font-size: 18px;
+     }
+  
+     
+ }
+
+  /* recentpost */
+
+
+ @media(max-width:1139px){
+    .markpic{
+        margin-right: 25px;
+    }
+    .mariapic{
+        margin-right: 28px;
+    }
+    .allisapic{
+        margin-right: 25px;
+    }
+ }
+ @media(max-width:768px){
+    .markpic{
+        margin-right: 9px;
+    }
+    .mariapic{
+        margin-right: 9px;
+    }
+    .allisapic{
+        margin-right: 9px;
+    }
+ }
+ @media(max-width:578px){
+    .markpic{
+        margin-right:20px;
+    }
+    .marknme h5{
+        font-size: 10px;    
+    } 
+    .marknme h6{
+        font-size: 10px;
+    }
+    .entertain2 h4{
+        font-size: 15px;
+    }
+    .entertain2 h2{
+        font-size: 20px;
+    }
+    .mariapic{
+        margin-right:27px;
+    }
+    .marianme h5{
+        font-size: 10px;
+    }
+    .marianme h6{
+        font-size: 10px;
+    }
+    .allisapic{
+        margin-right: 27px;
+    }
+    .allisanme h5{
+        font-size: 10px;
+    }
+    .allisanme h6{
+        font-size: 10px;
+    }
+   
+
+ }
+ @media(max-width:320px){
+    .politics2 h4{
+         font-size: 13px;
+    }
+    .ppara{
+        font-size: 16px;
+    }
+    .tempara{
+        font-size: 16px;
+    }
+ }
+
+ /* contact */
+
+ @media(max-width:320px){
+      .contpara{
+         font-size: 16px;
+      }
+      .cpara{
+        font-size: 16px;
+      }
+      .dpara{
+        font-size: 16px;
+      }
+ }
+ @media(max-width:1260px){
+    .opn h3{
+        font-size: 20px;
+    }
+    .loc h3{
+        font-size: 20px;
+    }
+    .cl h3{
+        font-size: 20px;
+    }
+    .mil h3{
+         font-size: 20px;
+    }
+}
+@media(max-width:1071px){
+    .mailpara{
+        font-size: 13px;
+        margin-left:8px;
+    }
+    .opnpara{
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .clpara{
+        font-size: 13px;
+        margin-left: 10px;
+    }
+    .locpara{
+        font-size: 13px;
+        margin-left: 10px;
+    }
+}
+@media(max-width:1154px){
+    .snd{
+        font-size: 16px;
+    }
+}
+@media(max-width:578px){
+    .snd{
+        width: 60%;
+        font-size: 13px;
+    }
+}
